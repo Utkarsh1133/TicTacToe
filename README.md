@@ -1,5 +1,5 @@
-                                                                          TIC-TAC-TOE-GAME 
-                                                                            Java Project
+                                                  TIC-TAC-TOE-GAME 
+                                                    Java Project
 
 OBJECTIVE:
 This project aims to develop a Tic Tac Toe game using java. It mainly consists of developing and implementing a computer program that plays Tic Tac Toe against another player.
